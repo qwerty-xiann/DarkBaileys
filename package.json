@@ -1,16 +1,22 @@
 {
-    "name": "qwerty-xianm/DarkBaileys",
-    "version": "2.1.7",
-    "description": "WhatsApp Modified By Xianmi",
+    "name": "@qwerty-xiann/DarkBaileys",
+    "version": "2.0.0",
+    "description": "WhatsApp API Modification By Xianntoddddd",
     "keywords": [
-        "whatsapp-baileys"
+        "whatsapp",
+        "baileys",
+        "whatsapp-web",
+        "whatsapp-chat",
+        "whatsapp-group",
+        "botwa",
+        "z4phdev"
     ],
-    "homepage": "https://github.com/DarkBaileys",
+    "homepage": "https://github.com/qwerty-xiann/DarkBaileys",
     "repository": {
         "url": "https://github.com/qwerty-xiann/DarkBaileys"
     },
     "license": "MIT",
-    "author": "Xiann.pdf",
+    "author": "Xianntoddddd",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -45,7 +51,7 @@
         "futoin-hkdf": "^1.5.1",
         "libphonenumber-js": "^1.10.20",
         "lodash": "^4.17.21",
-        "libsignal": "github:tenka-san/libsignal-node",
+        "libsignal": "npm:@shennmine/libsignal-node@2.0.1",
         "music-metadata": "^7.12.3",
         "node-cache": "^5.1.2",
         "node-fetch": "^2.6.1",
@@ -99,8 +105,5 @@
     "packageManager": "yarn@1.22.19",
     "engines": {
         "node": ">=20.0.0"
-    }, 
-    "bugs": {
-      "url": "https://qwerty-xiann/DarkBaileys/issues"
     }
 }
